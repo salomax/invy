@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-11-28T16:38:49.909Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="gBMQ7U4mbqKbdbQ4ryvC" version="12.3.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-29T22:53:37.581Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="RXYObMVtFAMkVRykjuVA" version="12.3.3" type="github" pages="1">
   <diagram id="U5muAcYlw0ag1JCLRIDb" name="Page-1">
-    <mxGraphModel dx="1393" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="768" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -58,7 +58,7 @@
         <mxCell id="7_RaW1AWdkRF37Sx4alJ-34" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="510" y="378.5" width="215" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="4SFKCHGJIZ1W-jkTVPGr-8" value="invy-asset-service" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=14;fillColor=#d5e8d4;strokeColor=none;fontColor=#006600;" parent="7_RaW1AWdkRF37Sx4alJ-34" vertex="1">
+        <mxCell id="4SFKCHGJIZ1W-jkTVPGr-8" value="invy-invest-service" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=14;fillColor=#d5e8d4;strokeColor=none;fontColor=#006600;" parent="7_RaW1AWdkRF37Sx4alJ-34" vertex="1">
           <mxGeometry y="30" width="195" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="7_RaW1AWdkRF37Sx4alJ-27" value="" style="group" parent="7_RaW1AWdkRF37Sx4alJ-34" vertex="1" connectable="0">
@@ -226,19 +226,19 @@
         <mxCell id="_6xYMksCDbQlXMiqtta--8" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://s3.amazonaws.com/cdn.33voices.com/presentations/567956383662300010000005/images/hero-07bb88075fb1a32bb828e64324b4ee20-medium.png;" parent="1" vertex="1">
           <mxGeometry x="261.5" y="614.5" width="55" height="55" as="geometry"/>
         </mxCell>
-        <mxCell id="XJ3DvhJzgClIl9dYRfv9-5" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="XJ3DvhJzgClIl9dYRfv9-5" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="920" y="541" width="120" height="74" as="geometry"/>
         </mxCell>
-        <mxCell id="XJ3DvhJzgClIl9dYRfv9-4" value="" style="group" vertex="1" connectable="0" parent="XJ3DvhJzgClIl9dYRfv9-5">
+        <mxCell id="XJ3DvhJzgClIl9dYRfv9-4" value="" style="group" parent="XJ3DvhJzgClIl9dYRfv9-5" vertex="1" connectable="0">
           <mxGeometry width="120" height="74" as="geometry"/>
         </mxCell>
-        <mxCell id="XJ3DvhJzgClIl9dYRfv9-1" value="" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontFamily=Tahoma;fontSize=14;fillColor=#bac8d3;strokeColor=#FFFFFF;" vertex="1" parent="XJ3DvhJzgClIl9dYRfv9-4">
+        <mxCell id="XJ3DvhJzgClIl9dYRfv9-1" value="" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontFamily=Tahoma;fontSize=14;fillColor=#bac8d3;strokeColor=#FFFFFF;" parent="XJ3DvhJzgClIl9dYRfv9-4" vertex="1">
           <mxGeometry x="30.86842105263156" width="36.84210526315789" height="50.714285714285715" as="geometry"/>
         </mxCell>
-        <mxCell id="XJ3DvhJzgClIl9dYRfv9-3" value="&lt;span style=&quot;font-family: &amp;#34;tahoma&amp;#34; ; font-size: 14px&quot;&gt;invy-analytics-db&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#949FA8;" vertex="1" parent="XJ3DvhJzgClIl9dYRfv9-4">
+        <mxCell id="XJ3DvhJzgClIl9dYRfv9-3" value="&lt;span style=&quot;font-family: &amp;#34;tahoma&amp;#34; ; font-size: 14px&quot;&gt;invy-analytics-db&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#949FA8;" parent="XJ3DvhJzgClIl9dYRfv9-4" vertex="1">
           <mxGeometry y="60" width="120" height="14" as="geometry"/>
         </mxCell>
-        <mxCell id="XJ3DvhJzgClIl9dYRfv9-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://www.timescale.com/images/icon.png;" vertex="1" parent="XJ3DvhJzgClIl9dYRfv9-5">
+        <mxCell id="XJ3DvhJzgClIl9dYRfv9-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://www.timescale.com/images/icon.png;" parent="XJ3DvhJzgClIl9dYRfv9-5" vertex="1">
           <mxGeometry x="60" y="20" width="34" height="34" as="geometry"/>
         </mxCell>
       </root>
