@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-29T18:51:02.282Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="2XIukIl2utvG6isaXABZ" version="12.4.7" type="github">
+<mxfile host="www.draw.io" modified="2019-12-29T18:58:47.578Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="-Uy6_erChBMe38p1Z5zg" version="12.4.7" type="github">
   <diagram id="U5muAcYlw0ag1JCLRIDb" name="Page-1">
-    <mxGraphModel dx="1231" dy="1101" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1716" dy="1101" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -143,7 +143,7 @@
           <mxGeometry x="494" y="870" width="240" height="111" as="geometry"/>
         </mxCell>
         <mxCell id="V0Xs-0CVrBQiGBR1F-wS-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EBE6CA;fontSize=14;strokeColor=none;fontColor=#ffffff;opacity=80;" parent="V0Xs-0CVrBQiGBR1F-wS-22" vertex="1">
-          <mxGeometry x="-20" width="250" height="90" as="geometry"/>
+          <mxGeometry x="-21" width="250" height="90" as="geometry"/>
         </mxCell>
         <mxCell id="V0Xs-0CVrBQiGBR1F-wS-17" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#F0F0F0;fontSize=14;fontColor=#4D9900;image=http://www.cvm.gov.br/export/sites/cvm/galeria/imagem/logo_cvm.png;" parent="V0Xs-0CVrBQiGBR1F-wS-22" vertex="1">
           <mxGeometry x="31.96" y="14.25" width="116.08" height="61.5" as="geometry"/>
@@ -305,7 +305,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dvqVxzHfl_kuCJ2bE0qf-9" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="858" y="870" width="300" height="90" as="geometry"/>
+          <mxGeometry x="857" y="870" width="300" height="90" as="geometry"/>
         </mxCell>
         <mxCell id="dvqVxzHfl_kuCJ2bE0qf-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EBE6CA;fontSize=14;strokeColor=none;fontColor=#ffffff;opacity=80;" vertex="1" parent="dvqVxzHfl_kuCJ2bE0qf-9">
           <mxGeometry width="300" height="90" as="geometry"/>
